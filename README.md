@@ -1,5 +1,5 @@
 <h2 align="center">
-    <b>Detectação de objetos com deep learning e OpenCV</b> 
+    <b>Object Detection with deep learning and OpenCV</b> 
 </h2>
 
 <br> 
@@ -9,6 +9,8 @@
 - [Sobre](#sobre)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Como Usar](#como-usar)
+
+<br> 
 
 <a id="sobre"></a>
 
