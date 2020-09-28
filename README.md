@@ -8,7 +8,7 @@
 
 - [Sobre](#sobre)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Como Usar](#como-usar)
+- [Como Usar](#usar)
 
 <br> 
 
@@ -33,6 +33,8 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 - [OpenCV](https://www.python.org/)
 
 <br> 
+
+<a id="usar"></a>
 
 ## :fire: Como usar
 
