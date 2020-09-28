@@ -17,7 +17,7 @@
 
 ## :bookmark: Sobre
 
-Esta aplicação é uma forma de realizar a detecção de objetos utilizando MobileNets + SSD juntamente com OpenCV e o módulo dnn, para detectar objetos em imagens.
+Esta aplicação é uma forma de realizar a detecção de objetos em imagens, utilizando MobileNets + SSD juntamente com OpenCV e o módulo dnn.
 <br>
 Essa aplicação foi baseada no artigo do blog [Pyimagesearch](https://www.pyimagesearch.com/2017/09/11/object-detection-with-deep-learning-and-opencv/)
 
@@ -51,6 +51,7 @@ $ python object_detection.py \
 # O resultado será a verificação do conteúdo da imagem escolhida dentro do diretório exemplo (a imagem em questão é exemplo_01.jpg)
 
 ```
+<br>
 
 <a id="autor"></a>
 
