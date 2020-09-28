@@ -4,7 +4,7 @@
 
 <br> 
 
-# Índice
+## Índice
 
 - [Sobre](#sobre)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
