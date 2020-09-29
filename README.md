@@ -4,7 +4,7 @@
 
 <br> 
 
-## :memo: Índice
+## :memo: Índice 
 
 - [Sobre](#sobre)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
